@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entries>
+  <entry time="2013-09-18T00:44:06.9330652Z" id="ad17d652-7246-42ec-b656-25e43d84f4f5" type="0">
+    <message>Updating submodules.</message>
+  </entry>
+  <entry time="2013-09-18T00:44:06.9643098Z" id="9311df2c-673b-41e5-81d5-d948295b156e" type="0">
+    <message>Preparing deployment for commit id '48fd16061f'.</message>
+  </entry>
+  <entry time="2013-09-18T00:44:07.1205746Z" id="eaeeeca8-98bf-46fc-8722-e08bf0f91c7e" type="0">
+    <message>Generating deployment script.</message>
+    <entry time="2013-09-18T00:44:07.1986826Z" id="1d86a871-68b1-4481-9244-2a3ec513c3cb" type="0">
+      <message>Using the following command to generate deployment script: 'azure site deploymentscript -y --no-dot-deployment -r "C:\DWASFiles\Sites\danaWeb\VirtualDirectory0\site\repository" -o "C:\DWASFiles\Sites\danaWeb\VirtualDirectory0\site\deployments\tools" --basic --sitePath "C:\DWASFiles\Sites\danaWeb\VirtualDirectory0\site\repository"'.</message>
+    </entry>
+    <entry time="2013-09-18T00:44:07.3861807Z" id="a8bfb1bc-ef31-4399-a54e-306ff87adaae" type="0">
+      <message>Generating deployment script for Web Site</message>
+    </entry>
+    <entry time="2013-09-18T00:44:07.4018045Z" id="b33bd406-0f0d-4601-83a1-cd15540f7e99" type="0">
+      <message>Generated deployment script files</message>
+    </entry>
+  </entry>
+  <entry time="2013-09-18T00:44:07.4486895Z" id="d8c444b5-7950-4fbc-b652-99a921feff9a" type="0">
+    <message>Running deployment command...</message>
+    <entry time="2013-09-18T00:44:07.464308Z" id="ae25311d-92fb-4368-ab81-5701d7883769" type="0">
+      <message>Command: C:\DWASFiles\Sites\danaWeb\VirtualDirectory0\site\deployments\tools\deploy.cmd</message>
+    </entry>
+    <entry time="2013-09-18T00:44:07.8705517Z" id="7c96caf2-638e-428d-947c-75cae09b17ec" type="0">
+      <message>Handling Basic Web Site deployment.</message>
+    </entry>
+    <entry time="2013-09-18T00:44:07.9955841Z" id="c868a97a-eb65-4f16-bd25-4c773bef556c" type="0">
+      <message>KuduSync.NET from: 'C:\DWASFiles\Sites\danaWeb\VirtualDirectory0\site\repository' to: 'C:\DWASFiles\Sites\danaWeb\VirtualDirectory0\site\wwwroot'</message>
+    </entry>
+    <entry time="2013-09-18T00:44:08.0111872Z" id="6dd47156-1917-4c8d-8449-34bec7b85758" type="0">
+      <message>Copying file: 'LICENSE'</message>
+    </entry>
+    <entry time="2013-09-18T00:44:08.0268012Z" id="1efb3a10-cbb2-43ba-8cc6-04711dad2ca7" type="0">
+      <message>Copying file: 'README.md'</message>
+    </entry>
+    <entry time="2013-09-18T00:44:08.0268012Z" id="4c88a364-c82b-4fb2-9e4f-c69f9139b2ee" type="0">
+      <message>Finished successfully.</message>
+    </entry>
+  </entry>
+  <entry time="2013-09-18T00:44:08.0892953Z" id="8cf2fcc4-3020-4088-9d6b-dc423f467e97" type="0">
+    <message>Deployment successful.</message>
+  </entry>
+</entries>

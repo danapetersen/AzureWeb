@@ -1,0 +1,2 @@
+1.23.20824.8
+-y --no-dot-deployment -r "C:\DWASFiles\Sites\danaWeb\VirtualDirectory0\site\repository" -o "C:\DWASFiles\Sites\danaWeb\VirtualDirectory0\site\deployments\tools" --basic --sitePath "C:\DWASFiles\Sites\danaWeb\VirtualDirectory0\site\repository"
